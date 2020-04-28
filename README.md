@@ -1,4 +1,4 @@
-<a href="https://frama.link/synthesetropicalia"Cliquer ici pour lire en pleine page ou sur mobile</a>
+<a href="https://frama.link/synthesetropicalia">Cliquer ici pour lire en pleine page ou sur mobile</a>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQgnvBE0ZZ0uHweifsBQJ9jpb9qspadvYgaGfZYw7iOp4O5C7szEqW_1y9Sa8d69oNzOqn9Ax9DmH-r/pub?embedded=true" height="2000px" width="100%"></iframe>
 
 ## Welcome to GitHub Pages
@@ -31,11 +31,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<style>
+<style type="text/css">
 a#forkme_banner {
     display: none;
 }
-  </style>
+</style>
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/collectifecocitoyenmontreuil/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
