@@ -19,6 +19,9 @@
     #main_content_wrap {
     background: white;
     }
+    div#footer_wrap {
+    display: none;
+    }
 }
 </style>
 
