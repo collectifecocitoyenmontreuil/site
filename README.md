@@ -11,6 +11,10 @@ a#forkme_banner {
     }
     h1#project_title {
     display: none;
+    .inner {
+    position: relative;
+    max-width: 900px;
+    }
 }
 </style>
 
