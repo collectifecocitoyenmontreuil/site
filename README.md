@@ -37,6 +37,7 @@ a#forkme_banner {
 }
     #header_wrap {
     background: linear-gradient(to top, #8fbc62, #8fbc62 );
+    height: 50px; 
     }
     h1#project_title {
     display: none;
