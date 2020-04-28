@@ -35,6 +35,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 a#forkme_banner {
     display: none;
 }
+    #header_wrap {
+    background: linear-gradient(to top, #8fbc62, #8fbc62 );
+    }
+    h1#project_title {
+    display: none;
+}
 </style>
 ### Jekyll Themes
 
