@@ -24,7 +24,5 @@
     }
 }
 </style>
-<img src="https://live.staticflickr.com/2048/31960907074_8aa06b7e62_b.jpg">
 
- 
 
