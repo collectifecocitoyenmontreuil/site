@@ -10,4 +10,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://live.staticflickr.com/2048/31960907074_8aa06b7e62_b.jpg
+      image: https://france3-regions.francetvinfo.fr/hauts-de-france/sites/regions_france3/files/styles/top_big/public/assets/images/2020/01/05/octavtirziu.com_caau_tropicalia_web2-4587569.jpg
